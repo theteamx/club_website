@@ -1,0 +1,1 @@
+"This page contains every kind of info not relating to any particular thing"
