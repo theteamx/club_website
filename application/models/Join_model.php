@@ -7,7 +7,7 @@ class Join_model extends CI_Model {
 
 		$data = array(
 		'nameField' => $this->input->post('name'),
-		'phoneField' => $this->input->post('phone')
+		'phoneField' => $this->input->post('phone'),
 		'emailField' => $this->input->post('email')
 		);
 		
